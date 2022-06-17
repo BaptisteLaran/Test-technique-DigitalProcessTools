@@ -1,4 +1,5 @@
 # Test-technique-DigitalProcessTools
 
-Le but du projet est de faire fonctionner des ascenseurs équipés de hardwares possèdant deux commandes : goUp() et goDown() avec un langage serveur en OOP.
+The goal of this project is to control elevators with hardwares that have 2 commands : goUp() et goDown() with a language server in OOP.
 
+To launch the program : ./elevator-program [-h or --help] actual_floor desire_floor minimal_floor maximum_floor.
