@@ -48,7 +48,7 @@ class Elevator:
         return (0)
 
 def print_help():
-    print("USAGE\n\t./elevator-control actual_floor desire_floor minimal_floor maximum_floor")
+    print("USAGE\n\t./elevator-control [-h or --help] actual_floor desire_floor minimal_floor maximum_floor")
     print("DESCRIPTION\n\tProgram that control the up-and-down of elevators")
 
 def move_elevator(params):
